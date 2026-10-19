@@ -1,0 +1,28 @@
+# Keil MDK 中间文件与输出
+Objects/
+Listings/
+build/
+DebugConfig/
+*.uvguix.*
+*.uvopt.bak
+*.uvproj.bak
+*.scvd
+*.dep
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.lnp
+*.sct
+*.htm
+*.iex
+*.tra
+
+# EIDE 日志
+.eide/log
+.eide.usr.ctx.json
